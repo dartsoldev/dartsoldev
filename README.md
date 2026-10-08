@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="herogit.png" alt="DartSol Hero Banner" width="100%" />
+  <img src="banner_dartol.jpeg" alt="DartSol Hero Banner" width="100%" />
 </p>
 
 <br/>
